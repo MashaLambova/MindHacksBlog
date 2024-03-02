@@ -1,0 +1,17 @@
+.brand-gradient{
+color: rgb(42, 136, 175);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: x-large;
+font-style: italic;
+ }
+
+ .banner-holder,
+ .main-page-header {
+  background-image: url(img/pic20.jpg);
+  background-size: cover;
+  background-position: bottom;
+ }
+
+ .custom-nav {
+  backdrop-filter: blur(8px);
+ }
